@@ -1,4 +1,4 @@
-# Eyes Movement Exercise
+# Eye Movement Exercise
 
 ## About
 This program generates a pair of eyes that follows your mouse around the screen as it moves.
